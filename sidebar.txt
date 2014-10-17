@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zmb:home|Door43 (zmb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zmb|d43-zmb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zmb/archive/master.zip|d43-zmb.zip]]
+
+**Recent Changes**
+{{changes>ns = zmb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zmb|Ethnologue data]]
+
